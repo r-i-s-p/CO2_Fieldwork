@@ -1,6 +1,6 @@
 # CO2_Fieldwork
 
-This repository describes the data collection and analysis performed while investigating CO2 concentration across different elevations at Mount Faber Park, Singapore. 
+This repository describes the data collection and analysis performed while investigating CO2 concentration across different elevations at Mount Faber Park, Singapore in September, 2022. 
 
 ### Methodology
 CO2 data was systematically collected across a range of elevations using a Raspberry Pi connected to a controller board that controlled the sensors SenseAir K‐30 CO2 and Adafruit BME688. Adafruit BME688 collected additional data on humidity, temperature, air pressure and volatile gas concentration. To collect data on elevation and wind speed and direction, a Kestrel pocket weather metre was used.
