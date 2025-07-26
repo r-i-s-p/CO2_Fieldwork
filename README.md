@@ -1,8 +1,14 @@
-# CO2_Fieldwork
+# Environmental Science
 
-This repository describes the data collection and analysis performed while investigating CO2 concentration across different elevations at Mount Faber Park, Singapore in September, 2022. 
+This repository describes the modelling and fieldwork conducted for SP3275 Science for a Sustainable Earth. 
 
-### Methodology
+## Daisyworld Model
+The daisyworld model is a simplified mathematical model designed to illustrate the self-regulation or feedback mechanisms between life and the environment. Daisyworld demonstrates how life can help stabilize climate conditions, supporting the broader ideas of the Gaia hypothesis. The model incorporates nonlinear dynamics, climate feedback, and biosphere-atmosphere interactions. This project also extends the model by investigating the effects of short-term perturbations on the equilibrium state of the Daisyworld model.
+
+
+## CO2 Fieldwork 
+Data collection and analysis was performed while investigating CO2 concentration across different elevations at Mount Faber Park, Singapore in September, 2022. 
+
 CO2 data was systematically collected across a range of elevations using a Raspberry Pi connected to a controller board that controlled the sensors SenseAir K‐30 CO2 and Adafruit BME688. Adafruit BME688 collected additional data on humidity, temperature, air pressure and volatile gas concentration. To collect data on elevation and wind speed and direction, a Kestrel pocket weather metre was used.
 
 ### Results
